@@ -1,2 +1,1 @@
-Usage 
-compare_images.py image1 image2
+Usage: python compare_images.py <image1_path> <image2_path>
